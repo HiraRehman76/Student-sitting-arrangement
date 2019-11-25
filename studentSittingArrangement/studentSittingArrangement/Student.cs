@@ -8,9 +8,9 @@ namespace studentSittingArrangement
 {
     class Student
     {
-        private string sections="";
-        private string ColumnNum="-1";
-        private string RowNum="-1";
+        private string sections = "";
+        private string RowNum = "-1";
+        private string ColumnNum = "-1";
 
         public string Sections
         {
